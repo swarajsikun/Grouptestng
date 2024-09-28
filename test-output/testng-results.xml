@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-03T09:51:28Z" name="Suite" finished-at="2024-09-03T09:51:28Z" duration-ms="44">
+    <groups>
+      <group name="Functionality">
+        <method signature="TC3.demo5()[pri:0, instance:Testcase.TC3@29ca3d04]" name="demo5" class="Testcase.TC3"/>
+      </group> <!-- Functionality -->
+      <group name="Smoke">
+        <method signature="TC3.demo5()[pri:0, instance:Testcase.TC3@29ca3d04]" name="demo5" class="Testcase.TC3"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2024-09-03T09:51:28Z" name="Test" finished-at="2024-09-03T09:51:28Z" duration-ms="44">
+      <class name="Testcase.TC3">
+        <test-method signature="demo5()[pri:0, instance:Testcase.TC3@29ca3d04]" started-at="2024-09-03T15:21:28Z" name="demo5" finished-at="2024-09-03T15:21:28Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo5 -->
+      </class> <!-- Testcase.TC3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
